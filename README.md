@@ -123,18 +123,9 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/105592007" width="100px;" alt="Foto de Victor Guerreiro do Github"/><br>
-        <sub>
-          <b>Victor Guerreiro</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ViictorWebTech/livecoding-brazil/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ViictorWebTech/livecoding-brazil" />
+</a>
 
 
 ## 😄 Seja um dos contribuidores<br>
