@@ -109,7 +109,6 @@ Por favor, note que estas são apenas diretrizes gerais e o projeto se reserva o
 
 
 ## 📫 Contribuindo para Live Coding Brazil
-<
 Para contribuir com Live Coding Brazil, siga estas etapas:
 
 1. Bifurque este repositório.
