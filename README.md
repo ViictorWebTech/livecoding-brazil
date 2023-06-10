@@ -43,6 +43,7 @@ Por favor, note que estas são apenas diretrizes gerais e o projeto se reserva o
 
 - [Back-end](#Back-end)
 - [C++](#C++)
+- [Crystal](#Crystal)
 - [Data Science](#Data-Science)
 - [Front-end](#Front-end)
 - [Full-Stack](#Full-Stack)
@@ -65,6 +66,9 @@ Por favor, note que estas são apenas diretrizes gerais e o projeto se reserva o
 ### C++
 - [danielhe4rt](twitch.tv/danielhe4rt)
 
+### Crystal
+- [gutolanjoni](twitch.tv/gutolanjoni)
+
 ### Data-Science
 - [teomewhy](twitch.tv/teomewhy)
 
@@ -85,6 +89,7 @@ Por favor, note que estas são apenas diretrizes gerais e o projeto se reserva o
 
 ### Laravel
 - [danielhe4rt](twitch.tv/danielhe4rt)
+- [gutolanjoni](twitch.tv/gutolanjoni)
 
 ### Node.js
 - [grandehe4rt](twitch.tv/grandehe4rt)
@@ -92,6 +97,7 @@ Por favor, note que estas são apenas diretrizes gerais e o projeto se reserva o
 ### PHP
 - [danielhe4rt](twitch.tv/danielhe4rt)
 - [grandehe4rt](twitch.tv/grandehe4rt)
+- [gutolanjoni](twitch.tv/gutolanjoni)
 
 ### Python
 - [grandehe4rt](twitch.tv/grandehe4rt)
