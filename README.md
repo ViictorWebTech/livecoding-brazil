@@ -60,57 +60,57 @@ Por favor, note que estas são apenas diretrizes gerais e o projeto se reserva o
 ## 🖥️ Canais por Tópico (A-Z)
 
 ### Back-end
-- [danielhe4rt](twitch.tv/danielhe4rt)
-- [grandehe4rt](twitch.tv/grandehe4rt)
+- [danielhe4rt](https://twitch.tv/danielhe4rt)
+- [grandehe4rt](https://twitch.tv/grandehe4rt)
 
 ### C++
-- [danielhe4rt](twitch.tv/danielhe4rt)
+- [danielhe4rt](https://twitch.tv/danielhe4rt)
 
 ### Crystal
-- [gutolanjoni](twitch.tv/gutolanjoni)
+- [gutolanjoni](https://twitch.tv/gutolanjoni)
 
 ### Data-Science
-- [teomewhy](twitch.tv/teomewhy)
+- [teomewhy](https://twitch.tv/teomewhy)
 
 ### Front-end
-- [ileonardohe4rt](twitch.tv/ileonardohe4rt)
-- [moovheart](twitch.tv/moovhe4rt)
+- [ileonardohe4rt](https://twitch.tv/ileonardohe4rt)
+- [moovheart](https://twitch.tv/moovhe4rt)
 
 ### Full-Stack
-- [moovheart](twitch.tv/moovhe4rt)
-- [Stherzada](twitch.tv/stherzada)
+- [moovheart](https://twitch.tv/moovhe4rt)
+- [Stherzada](https://twitch.tv/stherzada)
 
 ### Geral
-- [He4rtDevs](twitch.tv/he4rtdevs)
+- [He4rtDevs](https://twitch.tv/he4rtdevs)
 
 ### JavaScript
-- [grandehe4rt](twitch.tv/grandehe4rt)
-- [ileonardohe4rt](twitch.tv/ileonardohe4rt)
+- [grandehe4rt](https://twitch.tv/grandehe4rt)
+- [ileonardohe4rt](https://twitch.tv/ileonardohe4rt)
 
 ### Laravel
-- [danielhe4rt](twitch.tv/danielhe4rt)
-- [gutolanjoni](twitch.tv/gutolanjoni)
+- [danielhe4rt](https://twitch.tv/danielhe4rt)
+- [gutolanjoni](https://twitch.tv/gutolanjoni)
 
 ### Node.js
-- [grandehe4rt](twitch.tv/grandehe4rt)
+- [grandehe4rt](https://twitch.tv/grandehe4rt)
 
 ### PHP
-- [danielhe4rt](twitch.tv/danielhe4rt)
-- [grandehe4rt](twitch.tv/grandehe4rt)
-- [gutolanjoni](twitch.tv/gutolanjoni)
+- [danielhe4rt](https://twitch.tv/danielhe4rt)
+- [grandehe4rt](https://twitch.tv/grandehe4rt)
+- [gutolanjoni](https://twitch.tv/gutolanjoni)
 
 ### Python
-- [grandehe4rt](twitch.tv/grandehe4rt)
+- [grandehe4rt](https://twitch.tv/grandehe4rt)
 
 ### React
-- [grandehe4rt](twitch.tv/grandehe4rt)
-- [ileonardohe4rt](twitch.tv/ileonardohe4rt)
+- [grandehe4rt](https://twitch.tv/grandehe4rt)
+- [ileonardohe4rt](https://twitch.tv/ileonardohe4rt)
 
 ### TypeScript
-- [grandehe4rt](twitch.tv/grandehe4rt)
+- [grandehe4rt](https://twitch.tv/grandehe4rt)
 
 ### Vue.js
-- [ileonardohe4rt](twitch.tv/ileonardohe4rt)
+- [ileonardohe4rt](https://twitch.tv/ileonardohe4rt)
 
 
 
