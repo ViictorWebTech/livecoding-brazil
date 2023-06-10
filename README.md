@@ -113,18 +113,6 @@ Por favor, note que estas são apenas diretrizes gerais e o projeto se reserva o
 - [ileonardohe4rt](https://twitch.tv/ileonardohe4rt)
 
 
-
-## 📫 Contribuindo para Live Coding Brazil
-Para contribuir com Live Coding Brazil, siga estas etapas:
-
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin livecoding-brazil / <local>`
-5. Crie a solicitação de pull.
-
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
@@ -134,9 +122,28 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </a>
 
 
+
+## 📫 Contribuindo para Live Coding Brazil
+Para contribuir com Live Coding Brazil, siga estas etapas:
+
+1. Crie um fork!
+2. Crie um branch: `git checkout -b my-new-feature`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin my-new-feature`
+5. Envie um Pull Request para esse repositório
+
+- Adicione um título e uma descrição que deixe claro sua sugestão :)
+
+**Depois que seu pull request for mergeado**
+
+> Depois que seu pull request for mergeado, você pode apagar sua branch. 
+
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
 ## 😄 Seja um dos contribuidores<br>
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia mais de como contribuir.
+
 
 ***
   
