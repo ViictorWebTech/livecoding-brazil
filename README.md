@@ -48,6 +48,7 @@ Por favor, note que estas são apenas diretrizes gerais e o projeto se reserva o
 - [Front-end](#Front-end)
 - [Full-Stack](#Full-Stack)
 - [Geral](#Geral)
+- [Java](#Java)
 - [JavaScript](#JavaScript)
 - [Laravel](#Laravel)
 - [Node.js](#Node.js)
@@ -82,6 +83,9 @@ Por favor, note que estas são apenas diretrizes gerais e o projeto se reserva o
 
 ### Geral
 - [He4rtDevs](https://twitch.tv/he4rtdevs)
+
+### Java
+- [Jovem Tranquilão](https://www.youtube.com/@JovemTranquilao)
 
 ### JavaScript
 - [grandehe4rt](https://twitch.tv/grandehe4rt)
